@@ -9,6 +9,9 @@
 ?>
 
 
+
+        </div>
+    </main>
 <!-- Footer -->
  <footer>
     <h1>Footer</h1>
