@@ -18,7 +18,10 @@
     <title>Aquila Advance WordPress Theme</title>
     <?php wp_head(); ?>
 </head>
-<body>
+<body <?php body_class(); ?>>
+
+    <?php wp_body_open(); ?>
+    
     <!-- header -->
     <header>
         <h1>Header</h1>
