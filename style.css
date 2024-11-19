@@ -19,3 +19,7 @@
 /* body {
   color: red;
 } */
+
+.custom-logo {
+  max-width: 300px !important;
+}
